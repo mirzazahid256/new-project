@@ -4,6 +4,7 @@ if hungry=="yes"
  print("eat pizza")
 else:
 print("Do your home work")
+print("play cricket")
 
 
 
